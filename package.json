@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/barisusakli/mubsub.git"
+    "url": "git://github.com/NodeBB/mubsub.git"
   },
   "dependencies": {
     "mongodb": "^3.5.9"
