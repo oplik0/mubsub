@@ -1,5 +1,5 @@
 {
-  "name": "mubsub-nbb",
+  "name": "@nodebb/mubsub",
   "version": "1.6.1",
   "description": "Pub/sub for Node.js and MongoDB, updated for mongodb 3.0.x by nodebb",
   "homepage": "https://github.com/NodeBB/mubsub",
