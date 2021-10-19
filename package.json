@@ -27,10 +27,10 @@
     "mongodb": "^4.1.3"
   },
   "devDependencies": {
-    "mocha": "^2.2.5"
+    "mocha": "^9.1.3"
   },
   "scripts": {
-    "test": "mocha test --timeout 10000",
+    "test": "mocha --timeout 10000 --exit",
     "publish": "git push origin && git push origin --tags",
     "release:patch": "npm version patch && npm publish",
     "release:minor": "npm version minor && npm publish",
